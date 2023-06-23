@@ -3,7 +3,7 @@
   *f_sub- subtracts the top element of the stack
   *from the second top element of the stack.
   *@head: stack head
-  *@counter: number of lines
+  *@count_line: number of lines
   *Return: void
  */
 void f_sub(stack_t **head, unsigned int count_line)
