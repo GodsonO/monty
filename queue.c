@@ -2,7 +2,7 @@
 /**
  * f_queue - sets the format of the data to a queue (FIFO).
  * @head: stack head
- * @counter: number of lines
+ * @count_line: number of lines
  * Return: void
 */
 void f_queue(stack_t **head, unsigned int count_line)
